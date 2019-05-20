@@ -33,6 +33,8 @@ https://linustechtips.com/main/topic/301263-ultimate-programming-resources-threa
 
 https://www.flashcardmachine.com/c-programming.html
 
+https://realpython.com/
+
 # Video Resources
 http://www.securitytube.net/
 
