@@ -60,6 +60,15 @@ https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series
 
 https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/
 
+Hak5 Channel
+https://www.youtube.com/channel/UC3s0BtrBJpwNDaflRSoiieQ
+
+DEFCON Channel
+https://www.youtube.com/channel/UC6Om9kAkl32dWlDSNlDS9Iw
+
+LiveOverflow Channel
+https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w
+
 # Research Blogs
 http://chrissanders.org/
 
