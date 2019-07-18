@@ -18,6 +18,8 @@ https://www.root-me.org/en/Challenges/
 
 https://immersivelabs.online/signin
 
+https://www.hackthebox.eu/invite
+
 # Tech News Websites
 https://hackernoon.com/
 
